@@ -1,6 +1,6 @@
 {
   "name": "yt_scraper",
-  "description": "download an mp4 from youtube",
+  "description": "download a webm from youtube",
   "version": "0.0.1",
   "private": true,
   "repository": {
@@ -12,13 +12,10 @@
     "request": "2.9.203",
     "underscore": "1.1.7"
   },
-  "devDependencies": {
-    "jake": "*"
-  },
   "engines": {
     "node": ">=0.6",
     "npm": ">=1.0.106"
   },
-  "author": "airtime <scott@airtime.com>",
+  "author": "andrewlin12 <andrewlin12@gmail.com>",
   "main": "scraper"
 }
