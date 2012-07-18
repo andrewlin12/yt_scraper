@@ -1,0 +1,9 @@
+Prerequisites
+-------------
+node
+npm
+
+Usage
+-----
+npm install
+node lib/scraper.js <youtube-id>
